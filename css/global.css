@@ -117,3 +117,9 @@ body {
   background-position: 0 100%;
   filter: grayscale(0);
 }
+
+.hover-target:hover ~ .avatar {
+  cursor: pointer;
+  background-position: 0 100%;
+  filter: grayscale(0);
+}
